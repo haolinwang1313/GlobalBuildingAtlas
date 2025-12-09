@@ -41,13 +41,15 @@ MIT with Commons Clause (no commercial use allowed). See [LICENSE](https://githu
 ## How to cite
 If you find this dataset helpful in your work, please cite the following paper.
 ```
-@misc{zhu2025globalbuildingatlasopenglobalcomplete,
-      title={GlobalBuildingAtlas: An Open Global and Complete Dataset of Building Polygons, Heights and LoD1 3D Models}, 
-      author={Xiao Xiang Zhu and Sining Chen and Fahong Zhang and Yilei Shi and Yuanyuan Wang},
-      year={2025},
-      eprint={2506.04106},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.04106}, 
+@Article{essd-17-6647-2025,
+AUTHOR = {Zhu, X. X. and Chen, S. and Zhang, F. and Shi, Y. and Wang, Y.},
+TITLE = {GlobalBuildingAtlas: an open global and complete dataset of building polygons, heights and LoD1 3D models},
+JOURNAL = {Earth System Science Data},
+VOLUME = {17},
+YEAR = {2025},
+NUMBER = {12},
+PAGES = {6647--6668},
+URL = {https://essd.copernicus.org/articles/17/6647/2025/},
+DOI = {10.5194/essd-17-6647-2025}
 }
 ```

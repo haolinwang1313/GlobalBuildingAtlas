@@ -362,7 +362,7 @@ def process_single_geojson(input_vector, continent):
                             masked_var, _ = mk.mask(src_var_raster, [feature["geometry"]], crop=True, all_touched=True, nodata=-1)
 
                             median_value = np.max(masked_data) #MAX
-                            closest_index = np.argmin(np.abs(masked_var.flatten() - median_value))
+                            closest_index = np.argmin(np.abs(masked_data.flatten() - median_value))
                             var_value = masked_var.flatten()[closest_index]
 
                             feature["properties"].update({

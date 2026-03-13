@@ -69,7 +69,7 @@ The full data can be downloaded as follows:
      ```
      ./ODbLPolygon
      ```
-   - **LoD1 polygons and other data**: download from this repository, and save under:
+   - **LoD1 polygons and other data**: download from [HuggingFace](https://huggingface.co/datasets/zhu-xlab/GBA.LoD1), and save under:
      ```
      ./Polygon
      ./LoD1

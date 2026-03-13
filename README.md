@@ -28,7 +28,7 @@ We used some building footprints from ODbL-licensed sources ([OSM](https://www.o
 
 - **Part I** – [HuggingFace](https://huggingface.co/datasets/zhu-xlab/GBA.ODbLPolygon): `GBA.ODbLPolygon` contains **only building polygons derived from ODbL-licensed sources**.
 - **Part II** – [HuggingFace](https://huggingface.co/datasets/zhu-xlab/GBA.LoD1): `GBA.LoD1` contains additional building footprints from other sources, and LoD1 JSON files linking all building polygon features from `GBA.ODbLPolygon` and `GBA.Polygon`.
-- **GBA.Height** – [mediaTUM](https://mediatum.ub.tum.de/m1837832).
+- **GBA.Height** – [mediaTUM](https://mediatum.ub.tum.de/1782307).
 
 ### I still want the LoD1 GeoJSON files. What should I do?
 You can follow the README instructions under this [repository](#how-to-use-the-data), or [HuggingFace](https://huggingface.co/datasets/zhu-xlab/GBA.LoD1) to derive the final LoD1 GeoJSON files.
@@ -55,7 +55,7 @@ Note: Over the past few days, our web viewer has received nearly 280,000 access 
 The full data can be downloaded as follows:
 - **Part I** - [HuggingFace](https://huggingface.co/datasets/zhu-xlab/GBA.ODbLPolygon), GBA.ODbLPolygon contains ONLY building polygons derived from ODbL-licensed data sources.
 - **Part II** - [HuggingFace](https://huggingface.co/datasets/zhu-xlab/GBA.LoD1), GBA.LoD1 contains additional building footprints from other data sources, and LoD1 JSON files linking all building polygons features from GBA.ODbLPolygon and GBA.Polygon.
-- **GBA.Height** - [mediaTUM](https://mediatum.ub.tum.de/1837832).
+- **GBA.Height** - [mediaTUM](https://mediatum.ub.tum.de/1782307).
 
 ## How to Use the Data
 1. **Access the representative dataset**  
